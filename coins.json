@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "rank": "1",
+    "price": "11985.7015446851",
+    "description": "BTC Description",
+    "iconUrl": "https://raw.githubusercontent.com/onurkarabulut/coinrankingapidocs/main/btc.png?token=AJOXXSOOG2ON42VAKAOWEHDAF2RZQ"
+  },
+  {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "rank": "2",
+    "price": "476.7778086747",
+    "description": "Ethereum Description",
+    "iconUrl": "https://raw.githubusercontent.com/onurkarabulut/coinrankingapidocs/main/ethereum.png?token=AJOXXSOYVZUB7UC5GRF3H6LAF2RX4"
+  },
+ {
+    "name": "XRP",
+    "symbol": "XRP",
+    "rank": "3",
+    "price": "0.2909791653",
+    "description": "XRP Description",
+    "iconUrl": "https://raw.githubusercontent.com/onurkarabulut/coinrankingapidocs/main/xrp.png?token=AJOXXSOASUZQIEHV2XOAPFDAF2RVM"
+  }
+]
