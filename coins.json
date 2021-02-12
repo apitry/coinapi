@@ -22,5 +22,21 @@
     "price": "0.290979153",
     "description": "XRP Description",
     "iconUrl": "https://github.com/apitry/coinapi/blob/main/xrp.png?raw=true"
+  },
+  {
+    "name": "Cardano",
+    "symbol": "ETH",
+    "rank": "4",
+    "price": "0.9180",
+    "description": "Cardano Description",
+    "iconUrl": "https://github.com/apitry/coinapi/blob/main/cardano.png?raw=true"
+  },
+  {
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "rank": "5",
+    "price": "1.00",
+    "description": "Tether USD Description",
+    "iconUrl": "https://github.com/apitry/coinapi/blob/main/tether.png?raw=true"
   }
 ]
