@@ -38,5 +38,13 @@
     "price": "1.00",
     "description": "Tether USD Description",
     "iconUrl": "https://github.com/apitry/coinapi/blob/main/tether.png?raw=true"
+  },
+  {
+    "name": "Litecoin",
+    "symbol": "LTC",
+    "rank": "6",
+    "price": "209.3883101096748498335",
+    "description": "Tether USD Description",
+    "iconUrl": "https://github.com/apitry/coinapi/blob/main/tether.png?raw=true"
   }
 ]
