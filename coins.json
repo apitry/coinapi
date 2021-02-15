@@ -44,7 +44,31 @@
     "symbol": "LTC",
     "rank": "6",
     "price": "209.3883101096748498335",
-    "description": "Tether USD Description",
-    "iconUrl": "https://github.com/apitry/coinapi/blob/main/tether.png?raw=true"
+    "description": "Litecoin Description",
+    "iconUrl": "https://github.com/apitry/coinapi/blob/main/litecoin.png?raw=true"
+  },
+  {
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "rank": "7",
+    "price": "33.00901870879385929998",
+    "description": "Chainlink Description",
+    "iconUrl": "https://github.com/apitry/coinapi/blob/main/chainlink.jpeg?raw=true"
+  },
+  {
+    "name": "Bitcoin Cash",
+    "symbol": "BCH",
+    "rank": "8",
+    "price": "720.74684059813367670396",
+    "description": "Bitcoin Cash Description",
+    "iconUrl": "https://github.com/apitry/coinapi/blob/main/bitcoincash.png?raw=true"
+  },
+  {
+    "name": "Wrapper Ether",
+    "symbol": "WETH",
+    "rank": "9",
+    "price": "	1801.49130849351822663564",
+    "description": "Wrapper Ether Description",
+    "iconUrl": "https://github.com/apitry/coinapi/blob/main/wrapper.png?raw=true"
   }
 ]
