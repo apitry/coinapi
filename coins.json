@@ -6,6 +6,9 @@
     "price": "11985.7015446851",
     "description": "BTC Description",
     "iconUrl": "https://github.com/apitry/coinapi/blob/main/btc.png?raw=true",
+    "dayValue": "11985.7015446851",
+    "dayWeek": "11985.7015446851",
+    "dayMonth": "11985.7015446851",
     "state": false
   },
   {
@@ -15,6 +18,9 @@
     "price": "476.7778086747",
     "description": "Ethereum Description",
     "iconUrl": "https://github.com/apitry/coinapi/blob/main/ethereum.png?raw=true",
+    "dayValue": "476.7778086747",
+    "dayWeek": "476.7778086747",
+    "dayMonth": "476.7778086747",
     "state": false
   },
  {
@@ -24,6 +30,9 @@
     "price": "0.290979153",
     "description": "XRP Description",
     "iconUrl": "https://github.com/apitry/coinapi/blob/main/xrp.png?raw=true",
+    "dayValue": "0.290979153",
+    "dayWeek": "0.290979153",
+    "dayMonth": "0.290979153",
    "state": false
   },
   {
@@ -33,6 +42,9 @@
     "price": "0.9180",
     "description": "Cardano Description",
     "iconUrl": "https://github.com/apitry/coinapi/blob/main/cardano.png?raw=true",
+    "dayValue": "0.91801",
+    "dayWeek": "0.91801",
+    "dayMonth": "0.9180",
     "state": false
   },
   {
@@ -42,6 +54,9 @@
     "price": "1.00",
     "description": "Tether USD Description",
     "iconUrl": "https://github.com/apitry/coinapi/blob/main/tether.png?raw=true",
+    "dayValue": "1.00",
+    "dayWeek": "1.00",
+    "dayMonth": "1.00",
     "state": false
   },
   {
@@ -51,6 +66,9 @@
     "price": "209.3883101096748498335",
     "description": "Litecoin Description",
     "iconUrl": "https://github.com/apitry/coinapi/blob/main/litecoin.png?raw=true",
+    "dayValue": "209.3883101096748498335",
+    "dayWeek": "209.3883101096748498335",
+    "dayMonth": "209.3883101096748498335",
     "state": false
   },
   {
@@ -60,6 +78,9 @@
     "price": "33.00901870879385929998",
     "description": "Chainlink Description",
     "iconUrl": "https://github.com/apitry/coinapi/blob/main/chainlink.jpeg?raw=true",
+    "dayValue": "11985.7015446851",
+    "dayWeek": "11985.7015446851",
+    "dayMonth": "11985.7015446851",
     "state": false
   },
   {
@@ -69,15 +90,21 @@
     "price": "720.74684059813367670396",
     "description": "Bitcoin Cash Description",
     "iconUrl": "https://github.com/apitry/coinapi/blob/main/bitcoincash.png?raw=true",
+    "dayValue": "720.74684059813367670396",
+    "dayWeek": "720.74684059813367670396",
+    "dayMonth": "720.74684059813367670396",
     "state": false
   },
   {
     "name": "Wrapper Ether",
     "symbol": "WETH",
     "rank": "9",
-    "price": "	1801.49130849351822663564",
+    "price": "1801.49130849351822663564",
     "description": "Wrapper Ether Description",
     "iconUrl": "https://github.com/apitry/coinapi/blob/main/wrapper.png?raw=true",
+    "dayValue": "1801.49130849351822663564",
+    "dayWeek": "1801.49130849351822663564",
+    "dayMonth": "1801.49130849351822663564",
     "state": false
   }
 ]
