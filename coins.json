@@ -7,8 +7,8 @@
     "description": "BTC Description",
     "iconUrl": "https://github.com/apitry/coinapi/blob/main/btc.png?raw=true",
     "dayValue": "11985.7015446851",
-    "dayWeek": "11985.7015446851",
-    "dayMonth": "11985.7015446851",
+    "weekValue": "11985.7015446851",
+    "monthValue": "11985.7015446851",
     "state": false
   },
   {
@@ -19,8 +19,8 @@
     "description": "Ethereum Description",
     "iconUrl": "https://github.com/apitry/coinapi/blob/main/ethereum.png?raw=true",
     "dayValue": "476.7778086747",
-    "dayWeek": "476.7778086747",
-    "dayMonth": "476.7778086747",
+    "weekValue": "476.7778086747",
+    "monthValue": "476.7778086747",
     "state": false
   },
  {
@@ -31,8 +31,8 @@
     "description": "XRP Description",
     "iconUrl": "https://github.com/apitry/coinapi/blob/main/xrp.png?raw=true",
     "dayValue": "0.290979153",
-    "dayWeek": "0.290979153",
-    "dayMonth": "0.290979153",
+    "weekValue": "0.290979153",
+    "monthValue": "0.290979153",
    "state": false
   },
   {
@@ -43,8 +43,8 @@
     "description": "Cardano Description",
     "iconUrl": "https://github.com/apitry/coinapi/blob/main/cardano.png?raw=true",
     "dayValue": "0.91801",
-    "dayWeek": "0.91801",
-    "dayMonth": "0.9180",
+    "weekValue": "0.91801",
+    "monthValue": "0.9180",
     "state": false
   },
   {
@@ -55,8 +55,8 @@
     "description": "Tether USD Description",
     "iconUrl": "https://github.com/apitry/coinapi/blob/main/tether.png?raw=true",
     "dayValue": "1.00",
-    "dayWeek": "1.00",
-    "dayMonth": "1.00",
+    "weekValue": "1.00",
+    "monthValue": "1.00",
     "state": false
   },
   {
@@ -67,8 +67,8 @@
     "description": "Litecoin Description",
     "iconUrl": "https://github.com/apitry/coinapi/blob/main/litecoin.png?raw=true",
     "dayValue": "209.3883101096748498335",
-    "dayWeek": "209.3883101096748498335",
-    "dayMonth": "209.3883101096748498335",
+    "weekValue": "209.3883101096748498335",
+    "monthValue": "209.3883101096748498335",
     "state": false
   },
   {
@@ -79,8 +79,8 @@
     "description": "Chainlink Description",
     "iconUrl": "https://github.com/apitry/coinapi/blob/main/chainlink.jpeg?raw=true",
     "dayValue": "11985.7015446851",
-    "dayWeek": "11985.7015446851",
-    "dayMonth": "11985.7015446851",
+    "weekValue": "11985.7015446851",
+    "monthValue": "11985.7015446851",
     "state": false
   },
   {
@@ -91,8 +91,8 @@
     "description": "Bitcoin Cash Description",
     "iconUrl": "https://github.com/apitry/coinapi/blob/main/bitcoincash.png?raw=true",
     "dayValue": "720.74684059813367670396",
-    "dayWeek": "720.74684059813367670396",
-    "dayMonth": "720.74684059813367670396",
+    "weekValue": "720.74684059813367670396",
+    "monthValue": "720.74684059813367670396",
     "state": false
   },
   {
@@ -103,8 +103,8 @@
     "description": "Wrapper Ether Description",
     "iconUrl": "https://github.com/apitry/coinapi/blob/main/wrapper.png?raw=true",
     "dayValue": "1801.49130849351822663564",
-    "dayWeek": "1801.49130849351822663564",
-    "dayMonth": "1801.49130849351822663564",
+    "weekValue": "1801.49130849351822663564",
+    "monthValue": "1801.49130849351822663564",
     "state": false
   }
 ]
