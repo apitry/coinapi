@@ -3,7 +3,7 @@
     "name": "Bitcoin",
     "symbol": "BTC",
     "rank": "1",
-    "price": "47920.83413547716570002133 $",
+    "price": "47920.83 $",
     "description": "Bitcoin is a cryptocurrency invented in 2008 by an unknown person or group of people using the name Satoshi Nakamoto. The currency began use in 2009 when its implementation was released as open-source software.",
     "iconUrl": "https://github.com/apitry/coinapi/blob/main/btc.png?raw=true",
     "dayValue": "47060.62 $",
